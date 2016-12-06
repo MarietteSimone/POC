@@ -69,20 +69,20 @@ Ik heb op de portfolio pagina van Framer en een paar andere site's gekeken, en h
 Deze bestanden kun je dan weer openen in Framer om te gebruiken in je eigen ontwerp.
 
 # Nuttige video's/tutorials 
-Op youtube heb je een aantal framer tutorials die je een stuk verder kunnen helpen, onderstaande video gaat vooral over interacties en transities.
+Op Youtube heb je een aantal Framer tutorials die je een stuk verder kunnen helpen, onderstaande video gaat vooral over interacties en transities.
 
 https://www.youtube.com/watch?v=3zaxrXK7Nac
 
-# bronnen
+# Bronnen
 - https://material.uplabs.com/benjaminnathan
 - https://framerjs.com/gallery/
 - youtube.nl
 
-# conclusie
+# Conclusie
 Op de vraag of het mogelijk is voor ons om een prototype te maken in framer, denk ik dat het antwoord ja is er is genoeg informatie te vinden om het te kunnen leren. Een groter struikelblok zal de tijd zijn die we ervoor hebben. Verder heb ik erg handige functies gevonden die we in ons prototype kunnen gaan gebruiken.
 
 # Extra 
-Handige functies
+Handige functies - Framerjs.com
 
 Next & Previous — Go back and forth between two screens.<br>
 Overlay — Show a new screen from the bottom.<br>
