@@ -10,6 +10,9 @@ In de interviews die we hebben afgenomen met zowel patiënten als met een therap
 Wij creëren een platform waar misofonie patiënten oefeningen kunnen uitwisselen die voor hen goed werken. Hierdoor kunnen
 Kies een geluid ervaren misofonie patiënten andere patiënten helpen. We maken verschillende formats voor de verschillende typen oefeningen, zodat het voor de gebruiker makkelijker wordt om bruikbare oefeningen toe te voegen. Doordat we de layout beter structureren, zijn de oefeningen prettiger te gebruiken.
 
+<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/5846e835f79f80897744f493/c7b393ecadc609ab2dfc5be648e43814/Schermafbeelding_2016-12-06_om_17.18.42.png" alt="mijn afbeelding" title="Concept schets" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/5846e835f79f80897744f493/5ff29cb25bff1c518dcb8812be115036/Schermafbeelding_2016-12-06_om_17.18.36.png" alt="mijn afbeelding" title="Concept schets" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+
 # Mijn technische uitdagingingen:
 - Is het haalbaar om de hele app binnen de daarvoor beschikbare tijd te prototypen in Framer?
 - Wat voor functies hebben we nodig om ons concept te kunnen maken?
