@@ -72,7 +72,8 @@ Ik heb op de portfolio pagina van Framer en een paar andere site's gekeken, en h
 
 Deze bestanden kun je dan weer openen in Framer om te gebruiken in je eigen ontwerp.
 
-# Dan heb je nog video's op youtube die je een stuk verder kunnen helpen, onderstaande video gaat vooral over interacties en transities.
+# Nuttige video's/tutorials 
+Op youtube heb je een aantal framer tutorials die je een stuk verder kunnen helpen, onderstaande video gaat vooral over interacties en transities.
 
 https://www.youtube.com/watch?v=3zaxrXK7Nac
 
