@@ -16,6 +16,7 @@ Kies een geluid ervaren misofonie patiënten andere patiënten helpen. We maken 
 
 # Aanpak
 Ik ben eerst gaan kijken wat ik allemaal kon vinden over het werken met Framer, hieronder lees je een aantal voorbeelden hiervan.
+
 Dingen die we allemaal van Framer kunnen leren voor ons prototype:
 
 Next & Previous — Go back and forth between two screens.<br>
@@ -23,7 +24,7 @@ Overlay — Show a new screen from the bottom.<br>
 Modal — Show a modal dialog from the center.<br>
 Scroll — Scrollable artboard with anchored layers.<br>
 
-Sketch Import is daarbij heel belangrijk, daar kunnen we de gemaakte ontwerpen uit importeren.
+Sketch Import is daarbij heel belangrijk, daar kunnen we de gemaakte ontwerpen uit Sketch importeren.
 
 voorbeeld van de code:
 Import file "design" 
