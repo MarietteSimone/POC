@@ -18,14 +18,9 @@ Kies een geluid ervaren misofonie patiënten andere patiënten helpen. We maken 
 - Wat voor functies hebben we nodig om ons concept te kunnen maken?
 
 # Aanpak
-Ik ben eerst gaan kijken wat ik allemaal kon vinden over het werken met Framer, hieronder lees je een aantal voorbeelden hiervan.
+Ik ben eerst gaan kijken wat ik allemaal kon vinden over het werken met Framer, Het is interessant om te zien dat er al zoveel prototypes beschikbaar zijn. Over het algemeen lees en hoor ik veel positieve ervaringen over dit programma, je moet het even onder de knie krijgen maar daarna is het "super easy" zoals ze dat zeggen.
 
-Dingen die we allemaal van Framer kunnen leren voor ons prototype:
-
-Next & Previous — Go back and forth between two screens.<br>
-Overlay — Show a new screen from the bottom.<br>
-Modal — Show a modal dialog from the center.<br>
-Scroll — Scrollable artboard with anchored layers.<br>
+hieronder lees je een aantal ontdekkingen.
 
 Sketch Import is daarbij heel belangrijk, daar kunnen we de gemaakte ontwerpen uit Sketch importeren.
 
@@ -36,7 +31,8 @@ sketch = Framer.Importer.load("imported/design@1x")
 Set the opacity of layerA 
 sketch.layerA.opacity = 0.5
 
-# Verder is een Screen-to-Screen Workflow tussen de gemaakte schermen belangrijk die code zal er ongeveer zo uitzien:
+#  Screen-to-Screen Workflow code:
+Dit is een belangrijke omdat we tussen verschillende pagina's moeten kunnen wisselen.
 
 Create layers 
 layerA = new Layer
@@ -84,3 +80,11 @@ https://www.youtube.com/watch?v=3zaxrXK7Nac
 
 # conclusie
 Op de vraag of het mogelijk is voor ons om een prototype te maken in framer, denk ik dat het antwoord ja is er is genoeg informatie te vinden om het te kunnen leren. Een groter struikelblok zal de tijd zijn die we ervoor hebben. Verder heb ik erg handige functies gevonden die we in ons prototype kunnen gaan gebruiken.
+
+# Extra 
+Handige functies
+
+Next & Previous — Go back and forth between two screens.<br>
+Overlay — Show a new screen from the bottom.<br>
+Modal — Show a modal dialog from the center.<br>
+Scroll — Scrollable artboard with anchored layers.<br>
