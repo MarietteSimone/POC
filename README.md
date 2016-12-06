@@ -54,7 +54,7 @@ layerA.onClick ->
 Go backwards 
 flow.showPrevious()
 
-# Nuttige voorbeelden van Framer
+# Functies voor ons concept
 Ik heb op de portfolio pagina van Framer en een paar andere site's gekeken, en heb hieruit een aantal functies/interacties/voorbeelden kunnen halen die voor ons concept nodig zijn: 
 
 - Bewegend beeld: https://share.framerjs.com/fjs6tr726vap/
