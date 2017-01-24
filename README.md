@@ -88,6 +88,7 @@ Adobe Character Animator:
 Adobe Premiere Pro
 <img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/f9a3bb8442b6769a7f96ee628a3bde5e/3.png" alt="mijn afbeelding" title="Adobe Premiere Pro" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
 
+LINK NAAR HET VIDEOPROTOTYPE:https://vimeo.com/200873191
 
 # Bronnen
 Framer:
