@@ -16,8 +16,9 @@ Kies een geluid ervaren misofonie patiënten andere patiënten helpen. We maken 
 # Mijn technische uitdagingingen:
 - Is het haalbaar om de hele app binnen de daarvoor beschikbare tijd te prototypen in Framer?
 - Wat voor functies hebben we nodig om ons concept te kunnen maken?
+- Hoe maak ik een videoprototype & wat zijn de opties?
 
-# Aanpak
+# Aanpak Framer
 Ik ben eerst gaan kijken wat ik allemaal kon vinden over het werken met Framer, Het is interessant om te zien dat er al zoveel prototypes beschikbaar zijn. Over het algemeen lees en hoor ik veel positieve ervaringen over dit programma, je moet het even onder de knie krijgen maar daarna is het "super easy" zoals ze dat zeggen.
 
 hieronder lees je een aantal ontdekkingen.
@@ -73,12 +74,29 @@ Op Youtube heb je een aantal Framer tutorials die je een stuk verder kunnen help
 
 https://www.youtube.com/watch?v=3zaxrXK7Nac
 
+# Aanpak videoprototype
+Ik ben begonnen met het leren van het programma: Adobe Character Animator, en hoewel ik hier veel vorderingen mee heb gemaakt ben ik nog niet in staat om een voledige video op te bouwen met dit programma. Door tijdsgebrek heb ik moeten switchen naar een videoprototype in Adobe Premiere Pro. Ik heb hiervoor eerst een kort script geschreven:
+- beelden emoties: schaamte, schuld, haat, angst, walging en onbegrip.
+- Wat kan ik hier zelf tegen doen?
+- Maak kennis met de Share & CAre app.
+- Functies: oefeningen, toevoegen, favorieten, meldingen.
+- Afsluiting: Be your happy self again!
+<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/581182489b1045310753ba36e4e1c0bc/2.png" alt="mijn afbeelding" title="Adobe Character Animator" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+
+<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/f9a3bb8442b6769a7f96ee628a3bde5e/3.png" alt="mijn afbeelding" title="Adobe Premiere Pro" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+
+
 # Bronnen
+Framer:
 - https://material.uplabs.com/benjaminnathan
 - https://framerjs.com/gallery/
 - youtube.nl
+Videoprototype:
+- vimeo tutorials
+- Adobe Character Animator
+- http://www.pacdv.com/sounds/voices-2.html
 
-# Conclusie
+# Conclusie Framer
 Op de vraag of het mogelijk is voor ons om een prototype te maken in framer, denk ik dat het antwoord ja is er is genoeg informatie te vinden om het te kunnen leren. Een groter struikelblok zal de tijd zijn die we ervoor hebben. Verder heb ik erg handige functies gevonden die we in ons prototype kunnen gaan gebruiken.
 
 # Extra 
