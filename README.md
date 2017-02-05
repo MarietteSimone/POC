@@ -29,6 +29,7 @@ Ik heb hiervoor eerst een kort script geschreven:
 - Afsluiting: Be your happy self again! + call to action
 
 9 WETTEN OM EEN ONVERSLAANBARE PRODUCTVIDEO TE MAKEN:
+
 1. Context is koning
 2. Laat zien en vertel
 3. Vertel je verhaal, of laat klanten het voor je vertellen
@@ -56,7 +57,8 @@ LINK NAAR HET VIDEOPROTOTYPE:https://vimeo.com/200873191
 - vimeo tutorials
 - Adobe Character Animator
 - http://www.pacdv.com/sounds/voices-2.html
-- http://events-en-marketing.nl/9-wetten-om-een-onverslaanbare-productvideo-te-maken/
+- http://events-en-marketing.nl/9-wetten-om-een-onverslaanbare-productvideo-te-maken
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Aanpak Framer
