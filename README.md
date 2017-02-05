@@ -28,7 +28,7 @@ Ik heb hiervoor eerst een kort script geschreven:
 - Functies: oefeningen, toevoegen, favorieten, meldingen.
 - Afsluiting: Be your happy self again! + call to action
 
-9 WETTEN OM EEN ONVERSLAANBARE PRODUCTVIDEO TE MAKEN:
+Tips die ik heb gebruikt, bij het maken van mijn video:
 
 1. Context is koning
 2. Laat zien en vertel
@@ -46,11 +46,17 @@ Ik heb hiervoor eerst een kort script geschreven:
 
 # Reflectie videoprototype/productvideo
 
-Eerste poging met Adobe Character Animator:
-<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/581182489b1045310753ba36e4e1c0bc/2.png" alt="mijn afbeelding" title="Adobe Character Animator" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+Hieronder nog een lijst met welke functies ik heb gebruikt/geleerd: 
 
-Adobe Premiere Pro
-<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/f9a3bb8442b6769a7f96ee628a3bde5e/3.png" alt="mijn afbeelding" title="Adobe Premiere Pro" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+- Materiaal importeren in premiere pro
+- Volume harder en zachter instellen
+- geknipt in beeldmateriaal
+- beelden versneld/vertraagd laten afspelen 
+- meerdere filmpjes op een pagina (naast elkaar) 
+- muziek toegevoegd
+- meerdere filmpjes op een pagina (naast elkaar) - muziek toegevoegd
+- geïmporteerd naar vimeo
+- titels toegevoegd
 
 LINK NAAR HET VIDEOPROTOTYPE:https://vimeo.com/200873191
 
@@ -60,6 +66,13 @@ LINK NAAR HET VIDEOPROTOTYPE:https://vimeo.com/200873191
 - Adobe Character Animator
 - http://www.pacdv.com/sounds/voices-2.html
 - http://events-en-marketing.nl/9-wetten-om-een-onverslaanbare-productvideo-te-maken
+
+Eerste poging met Adobe Character Animator:
+<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/581182489b1045310753ba36e4e1c0bc/2.png" alt="mijn afbeelding" title="Adobe Character Animator" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+
+Adobe Premiere Pro
+<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/f9a3bb8442b6769a7f96ee628a3bde5e/3.png" alt="mijn afbeelding" title="Adobe Premiere Pro" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
