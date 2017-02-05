@@ -54,7 +54,8 @@ Hieronder nog een lijst met welke functies ik heb gebruikt/geleerd:
 - beelden versneld/vertraagd laten afspelen 
 - meerdere filmpjes op een pagina (naast elkaar) 
 - muziek toegevoegd
-- meerdere filmpjes op een pagina (naast elkaar) - muziek toegevoegd
+- meerdere filmpjes op een pagina (naast elkaar) 
+- muziek transitions
 - geïmporteerd naar vimeo
 - titels toegevoegd
 
@@ -66,6 +67,8 @@ LINK NAAR HET VIDEOPROTOTYPE:https://vimeo.com/200873191
 - Adobe Character Animator
 - http://www.pacdv.com/sounds/voices-2.html
 - http://events-en-marketing.nl/9-wetten-om-een-onverslaanbare-productvideo-te-maken
+- https://www.premiumbeat.com/blog/15-premiere-pro-tutorials-every-video-editor-watch/
+
 
 Eerste poging met Adobe Character Animator:
 <img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/581182489b1045310753ba36e4e1c0bc/2.png" alt="mijn afbeelding" title="Adobe Character Animator" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
