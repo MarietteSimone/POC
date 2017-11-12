@@ -1,3 +1,4 @@
+<img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/b6cc39e542c1980d300f87f66548ee84/Adobe-XD.png" alt="mijn afbeelding" title="Adobe XD" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
 # Proof of Concept (POC) en Reflectie
 
 Maya App
@@ -30,129 +31,61 @@ Het plan is om de stappen om een activiteit aan te maken, te ontwerpen binnen de
 Ik heb allereerst pattern onderzoek gedaan, waaruit nu de eerste schetsen zijn ontstaan. Die ik weer verder ga uitwerken en testen om vervolgens het prototype te kunnen maken.
 
 <img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/94582e2bfa69b16c33913b5cc86486dc/Schermafbeelding_2017-11-12_om_14.07.32.png" alt="mijn afbeelding" title="Concept schets" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
-<img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/b6cc39e542c1980d300f87f66548ee84/Adobe-XD.png" alt="mijn afbeelding" title="Adobe XD" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
 
 
-# Aanpak videoprototype/productvideo
-Ik ben begonnen met het leren van het programma: Adobe Character Animator, en hoewel ik hier veel vorderingen mee heb gemaakt ben ik nog niet in staat om een voledige video op te bouwen met dit programma. Door tijdsgebrek heb ik moeten switchen naar een videoprototype in Adobe Premiere Pro. 
+# Onderzoeksplan
 
-Ik heb hiervoor eerst een kort script geschreven:
-- beelden emoties: schaamte, schuld, haat, angst, walging en onbegrip.
-- Wat kan ik hier zelf tegen doen?
-- Maak kennis met de Share & CAre app.
-- Functies: oefeningen, toevoegen, favorieten, meldingen.
-- Afsluiting: Be your happy self again! + call to action
+Om mijn technische deelvraag te kunnen beantwoorden, ga ik desk research doen. Ik ga video's bekijken en artikelen lezen over het werken met Adobe XD, en alle mogelijkheden ervan. Ook de overdraagbaarheid speelt hierin een grote rol.
+
+# Resultaten
+
+Adobe XD tips:
+
+- Zorg dat je de ontwerpen al klaar hebt in Photoshop of Sketsch alvorens je begint.
+- Maak je niet druk om foutjes in het ontwerp, aanpassingen kun je ook makkelijk binnen Adobe XD realiseren.
+- Afbeeldingen sleep je eenvoudig in je ontwerpscherm
+- Je kunt bij het aanmaken van een nieuw project eenvoudig schermgroottes aanklikken bijc. voor ihpone 7.
+- Wanneer je elementen groepeert kun je ze in een keer aanpassen.
+- Je kunt eenvoudig je prototypes/ontwerpen delen online, om samen met teamgenoten te werken en feedback te ontvangen.
+- knip en plak direct vanuit andere design programma's als Photoshop, Illustrator en Indesign.
+- Via websites als https://freebiesupply.com/free-adobe-xd/ kun je eenvoudig templates downloaden.
+
+# Bronnen
+
+- Adobe Creative Cloud.Features. Geraadpleegd van http://www.adobe.com/nl/products/xd/details.html
+- Adobe XD: nieuwe tool voor UX designers. Geraadpleegd van https://www.onemorething.nl/2016/03/adobe-xd-nieuw-voor-ux-designers/
+- Lardinois, F. Adobe’s XD prototyping and wireframing tool is now out of beta. Geraadpleegd van https://techcrunch.com/2017/10/18/adobe-xd-designing-at-the-speed-of-thought/
+
+# Reflectie
+
+Wat heb ik geleerd?
+
+- Ik heb geleerd dat het een fijn programma is, waarin je snel en makkelijk prototypes in kunt realiseren.
+- Hoe je een interactief prototype maakt binnen Adobe XD.
+- Dat de opties om de schermflow te creeëren minimaal zijn.
+- Hoewel het programma vrij nieuw is, zijn er al veel tutorials en templates beschikbaar online.
+- Hoe je een schermopname kunt maken, en je bestand kunt opslaan.
 
 <img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/5082f97dd85a20a4ed367fa35825c57d/Schermafbeelding_2017-11-07_om_16.12.40.png" alt="mijn afbeelding" title="Adobe XD Ontwerp" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
 
-# Leerdoelen videoprototype/productvideo
+Leerdoelen behaald?
 
-# Conclusie videoprototype/productvideo
+1 Goed en vloeiend werkend prototype maken in Adobe XD, voor zover dat haalbaar is binnen de beschikbare tijd.
+2 Basis van Adobe XD goed begrijpen en het leerproces gestructureerd aanpakken.
+3 De microinteracties op een goede manier weergeven in Adobe XD.
 
-# Reflectie videoprototype/productvideo
+Ik heb de dingen die nog niet gelukt zijn:
+- Swipen om te wijzigen/verwijderen
+- Switchen tussen de filter opties
 
-Hieronder nog een lijst met welke functies ik heb gebruikt/geleerd: 
+<iframe  width="425" height="344" src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" frameborder="0" allowfullscreen></iframe>
 
-- Materiaal importeren in premiere pro
-- Volume harder en zachter instellen
-- geknipt in beeldmateriaal
-- beelden versneld/vertraagd laten afspelen 
-- meerdere filmpjes op een pagina (naast elkaar) 
-- muziek toegevoegd
-- meerdere filmpjes op een pagina (naast elkaar) 
-- muziek transitions
-- geïmporteerd naar vimeo
-- titels toegevoegd
+# Conclusie
 
-LINK NAAR HET VIDEOPROTOTYPE:https://vimeo.com/200873191
+Het programma is echt puur gericht op het ontwerpen van wireframes, layouts en (interactieve) designs van websites en apps. Doordat het werken met het programma snel gaat en je makkelijk online kunt overleggen met teamgenoten, raad ik zeker aan om het te gebruiken. Uit de video's in de artikelen kreeg ik als snel door hoe het programma precies werkte, waardoor ik snel aan de gang kon gaan. Aangezien vrijwel iedereen in de creatieve sector werkt met het Adobe pakket is het dus ook toegankelijk voor iedereen. Is dit niet het geval, kun je alsnog het ontwerp delen als PNG'S, PDF en schermvideo. Verder helpt het enorm bij de ontwerpfase, en zorgt er voor dat je een goed en duidelijk voorstel kunt leveren. Voordat developpers vervolgens alles verder gaan uitwerken.
+Nadeel: er is echter wel een groot nadeel aan Adobe XD, in mijn ontwerp was een van de belangrijkste microinteracties het swipen om te wijzigen/verwijderen. Dit kun je helaas niet exact realiseren binnen Adobe XD.
 
-# Bronnen videoprototype/productvideo
+# Links
 
-- vimeo tutorials
-- Adobe Character Animator
-- http://www.pacdv.com/sounds/voices-2.html
-- http://events-en-marketing.nl/9-wetten-om-een-onverslaanbare-productvideo-te-maken
-- https://www.premiumbeat.com/blog/15-premiere-pro-tutorials-every-video-editor-watch/
-
-
-Eerste poging met Adobe Character Animator:
-<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/581182489b1045310753ba36e4e1c0bc/2.png" alt="mijn afbeelding" title="Adobe Character Animator" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
-
-Adobe Premiere Pro
-<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/585be7f80fc15f84f785111a/f9a3bb8442b6769a7f96ee628a3bde5e/3.png" alt="mijn afbeelding" title="Adobe Premiere Pro" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-# Aanpak Framer
-Ik ben eerst gaan kijken wat ik allemaal kon vinden over het werken met Framer, Het is interessant om te zien dat er al zoveel prototypes beschikbaar zijn. Over het algemeen lees en hoor ik veel positieve ervaringen over dit programma, je moet het even onder de knie krijgen maar daarna is het "super easy" zoals ze dat zeggen.
-
-hieronder lees je een aantal ontdekkingen.
-
-Sketch Import is daarbij heel belangrijk, daar kunnen we de gemaakte ontwerpen uit Sketch importeren.
-
-voorbeeld van de code:
-Import file "design" 
-sketch = Framer.Importer.load("imported/design@1x")
- 
-Set the opacity of layerA 
-sketch.layerA.opacity = 0.5
-
-#  Screen-to-Screen Workflow code:
-Dit is een belangrijke omdat we tussen verschillende pagina's moeten kunnen wisselen.
-
-Create layers 
-layerA = new Layer
-    backgroundColor: "#00AAFF"
-    size: Screen.size
- 
-layerB = new Layer
-    backgroundColor: "#FFCC33"
-    size: Screen.size
- 
-Set up FlowComponent 
-flow = new FlowComponent
-flow.showNext(layerA)
-
-Transition to layerB on click 
-layerA.onClick ->
-    flow.showNext(layerB)
-    
-Go backwards 
-flow.showPrevious()
-
-# Functies voor ons concept
-Ik heb op de portfolio pagina van Framer en een paar andere site's gekeken, en heb hieruit een aantal functies/interacties/voorbeelden kunnen halen die voor ons concept nodig zijn: 
-
-- Bewegend beeld: https://share.framerjs.com/fjs6tr726vap/
-- Chat Bubbles: https://share.framerjs.com/93x31t8weg1p/
-- List Sorting: https://share.framerjs.com/exw00nylgvo3/
-- Add project(oefening): https://material.uplabs.com/posts/add-project-animation
-- Design Music Player: https://material.uplabs.com/posts/material-design-music-app-prototype
-- Login: http://share.framerjs.com/b6qelo86ma45/
-- Share: http://share.framerjs.com/1m7q7xefvn4d/
-
-
-Deze bestanden kun je dan weer openen in Framer om te gebruiken in je eigen ontwerp.
-
-# Nuttige video's/tutorials 
-Op Youtube heb je een aantal Framer tutorials die je een stuk verder kunnen helpen, onderstaande video gaat vooral over interacties en transities.
-
-https://www.youtube.com/watch?v=3zaxrXK7Nac
-
-# Conclusie Framer
-Op de vraag of het mogelijk is voor ons om een prototype te maken in framer, denk ik dat het antwoord ja is er is genoeg informatie te vinden om het te kunnen leren. Een groter struikelblok zal de tijd zijn die we ervoor hebben. Verder heb ik erg handige functies gevonden die we in ons prototype kunnen gaan gebruiken.
-
-# Extra 
-Handige functies - Framerjs.com
-
-Next & Previous — Go back and forth between two screens.<br>
-Overlay — Show a new screen from the bottom.<br>
-Modal — Show a modal dialog from the center.<br>
-Scroll — Scrollable artboard with anchored layers.<br>
-
-# Bronnen
-Framer:
-- https://material.uplabs.com/benjaminnathan
-- https://framerjs.com/gallery/
-- youtube.nl
+- https://drive.google.com/drive/folders/0B69eGFifr6TEX01pM1BMUXhQcmc
+- https://trello.com/b/r9oXlNRi/ehealth-20
