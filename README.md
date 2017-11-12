@@ -62,34 +62,28 @@ Wat heb ik geleerd?
 
 - Ik heb geleerd dat het een fijn programma is, waarin je snel en makkelijk prototypes in kunt realiseren.
 - Hoe je een interactief prototype maakt binnen Adobe XD.
+- D.m.v. "drag and drop" kun je interacties tussen je schermen creeëren.
 - Dat de opties om de schermflow te creeëren minimaal zijn.
 - Hoewel het programma vrij nieuw is, zijn er al veel tutorials en templates beschikbaar online.
 - Hoe je een schermopname kunt maken, en je bestand kunt opslaan.
+- Samenwerken is makkelijk en online mogelijk.
 
 <img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/5082f97dd85a20a4ed367fa35825c57d/Schermafbeelding_2017-11-07_om_16.12.40.png" alt="mijn afbeelding" title="Adobe XD Ontwerp" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
 
 Leerdoelen behaald?
 
 1 Goed en vloeiend werkend prototype maken in Adobe XD, voor zover dat haalbaar is binnen de beschikbare tijd.
+Zeker behaald binnen de beschikbare tijd, het prototype werkt goed waardoor de achterliggende gedachten goed overkomt.
 2 Basis van Adobe XD goed begrijpen en het leerproces gestructureerd aanpakken.
+Ik beheers in principe alle functies binnen Adobe XD, het was af en toe wel een uitdaging als bepaalde dingen niet lukte of niet mogelijk bleken te zijn. Ik heb toch wel doorgezet met dit programma omdat ik echt vind dat het een mooie toevoeging is aan mijn skills, en een programma is wat ik in de toekomst zeker nog verwacht te gaan gebruiken.
 3 De microinteracties op een goede manier weergeven in Adobe XD.
+Ook dit punt is aardig gelukt, al moet ik er bij zeggen dat ik pas later ontdekte dat het swipen van bepaalde elementen binnen de MAYA app niet mogelijk is. Een goede uitleg of aanwijzigingen bij het opleveren van het prototype is dus wel gewenst.
 
 Ik heb de dingen die nog niet gelukt zijn:
 - Swipen om te wijzigen/verwijderen
 - Switchen tussen de filter opties
+- Gehele app uitwerken in dit programma
 
-
-
-<video width="400" controls>
-  <source src="mov_bbb.mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video>
-
-<p>
-Video courtesy of 
-<a href="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" target="_blank">Big Buck Bunny</a>.
-</p>
 
 # Conclusie
 
@@ -100,6 +94,5 @@ Nadeel: er is echter wel een groot nadeel aan Adobe XD, in mijn ontwerp was een 
 
 - https://drive.google.com/drive/folders/0B69eGFifr6TEX01pM1BMUXhQcmc
 - https://trello.com/b/r9oXlNRi/ehealth-20
-- <p>Video link
-<a href="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" target="_blank">prototype</a>.
+- <p>Video link <a href="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" target="_blank">prototype lijsten</a>.
 </p>
