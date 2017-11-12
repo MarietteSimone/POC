@@ -78,10 +78,18 @@ Ik heb de dingen die nog niet gelukt zijn:
 - Swipen om te wijzigen/verwijderen
 - Switchen tussen de filter opties
 
+
+
 <video width="400" controls>
-  <source src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" type="video/mp4">
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML5 video.
 </video>
 
+<p>
+Video courtesy of 
+<a href="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" target="_blank">Big Buck Bunny</a>.
+</p>
 
 # Conclusie
 
@@ -92,3 +100,6 @@ Nadeel: er is echter wel een groot nadeel aan Adobe XD, in mijn ontwerp was een 
 
 - https://drive.google.com/drive/folders/0B69eGFifr6TEX01pM1BMUXhQcmc
 - https://trello.com/b/r9oXlNRi/ehealth-20
+- <p>Video link
+<a href="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" target="_blank">prototype</a>.
+</p>
