@@ -1,22 +1,37 @@
-# POC inleiding
+# Proof of Concept (POC) en Reflectie
 
-Doel huidige app MisofoMe
-De app MisofoMe heeft als doel het stimuleren van de uitwisseling van oefeningen door misofonie patiënten. Deze oefeningen helpen hen bij het leren omgaan met de misofonie.
+Maya App
+Jouw steun bij het voorkomen van een terugval.
 
 Probleem
-In de interviews die we hebben afgenomen met zowel patiënten als met een therapeut is naar voren gekomen dat de behandeling in het AMC niet voldoende is. Het is te vergelijken met het behalen van je rijbewijs, daarna begint het pas echt en doe je echt ervaring op. Na de therapie in het AMC zullen patiënten zelf hun behandeling moeten voortzetten. De hoofdvraag die wij naar aanleiding van dit probleem hebben opgesteld, luidt:
-“Hoe kunnen we misofonie patiënten ondersteunen in het proces van zelfbehandeling na het afronden van hun therapie in het AMC?”
+In het huidige ontwerp van de app is het beheren van lijsten onnodig moeilijk gemaakt. Zo is het wijzigen en verwijderen van factoren vrijwel onmogelijk voor de gebruiker. 
 
-Wij creëren een platform waar misofonie patiënten oefeningen kunnen uitwisselen die voor hen goed werken. Hierdoor kunnen
-Kies een geluid ervaren misofonie patiënten andere patiënten helpen. We maken verschillende formats voor de verschillende typen oefeningen, zodat het voor de gebruiker makkelijker wordt om bruikbare oefeningen toe te voegen. Doordat we de layout beter structureren, zijn de oefeningen prettiger te gebruiken.
 
-<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/5846e835f79f80897744f493/c7b393ecadc609ab2dfc5be648e43814/Schermafbeelding_2016-12-06_om_17.18.42.png" alt="mijn afbeelding" title="Concept schets" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
-<img src="https://trello-attachments.s3.amazonaws.com/583830811dba0b1a3139bbda/5846e835f79f80897744f493/5ff29cb25bff1c518dcb8812be115036/Schermafbeelding_2016-12-06_om_17.18.36.png" alt="mijn afbeelding" title="Concept schets" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+# Technische deelvragen
 
-# Mijn technische uitdagingingen:
-- Is het haalbaar om de hele app binnen de daarvoor beschikbare tijd te prototypen in Framer?
-- Wat voor functies hebben we nodig om ons concept te kunnen maken?
-- Hoe maak ik een videoprototype/productvideo & wat zijn de opties?
+- Is het haalbaar om de hele app binnen de daarvoor beschikbare tijd te prototypen in Adobe XD?
+- Hoe kan ik het scenario "lijstjes beheer" interactief maken in Adobe XD, en het geheel zo structureren/opslaan zodat het goed overdraagbaar is naar toekomstige MAYA developers?
+- Hoe kunnen we beginnende gebruikers helpen de app snel te leren begrijpen, zodat ze meteen weten wat er mogelijk is en hoe ze lijsten kunnen beheren in de app?
+- Zijn er in Adobe XD genoeg opties om de interactie met de app juist weer te geven?
+- Zijn er voldoende tutorials beschikbaar?
+
+# Technische leerdoelen
+- Goed en vloeiend werkend prototype maken in Adobe XD, voor zover dat haalbaar is binnen de beschikbare tijd.
+- Basis van Adobe XD goed begrijpen en het leerproces gestructureerd aanpakken.
+- De microinteracties op een goede manier weergeven in Adobe XD.
+
+Mijn doelen zijn met succes behaald als ik een sterk en goed lopend prototype van mijn scenario heb ontwikkeld, die ik op een makkelijke manier kan overbrengen aan mijn teamgenoten en eventueel toekomstige deelnemers van dit project.
+
+# Inleiding
+
+De technische deelvraag die ik in mijn Proof of Concept ga onderzoeken is: "Hoe kan ik het scenario "lijstjes beheer" interactief maken in Adobe XD, en het geheel zo structureren/opslaan zodat het goed overdraagbaar is naar toekomstige MAYA developers?"
+Na onderzoek gedaan te hebben naar verschillende prototyping tools, kwam ik uiteindelijk terecht bij Adobe Experience Design. Deze kwam naar voren in verschillende artikelen als één van de beste en nieuwste prototyping tools van dit jaar. Ook liep ik bij de andere programma opties aan tegen proefversies of hoge prijzen, waardoor de overdraagbaarheid aanzienlijk lastiger/onmogelijk zou worden.
+Het plan is om de stappen om een activiteit aan te maken, te ontwerpen binnen deze tool (incl. microinteracties).
+Ik heb allereerst pattern onderzoek gedaan, waaruit nu de eerste schetsen zijn ontstaan. Die ik weer verder ga uitwerken en testen om vervolgens het prototype te kunnen maken.
+
+<img src="https://trello.com/c/vT6PwoSE/12-ruwe-scheten" alt="mijn afbeelding" title="Concept schets" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+<img src="https://trello.com/c/vT6PwoSE/12-ruwe-scheten" alt="mijn afbeelding" title="Adobe XD" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+
 
 # Aanpak videoprototype/productvideo
 Ik ben begonnen met het leren van het programma: Adobe Character Animator, en hoewel ik hier veel vorderingen mee heb gemaakt ben ik nog niet in staat om een voledige video op te bouwen met dit programma. Door tijdsgebrek heb ik moeten switchen naar een videoprototype in Adobe Premiere Pro. 
@@ -28,17 +43,7 @@ Ik heb hiervoor eerst een kort script geschreven:
 - Functies: oefeningen, toevoegen, favorieten, meldingen.
 - Afsluiting: Be your happy self again! + call to action
 
-Tips die ik heb gebruikt, bij het maken van mijn video:
-
-1. Context is koning
-2. Laat zien en vertel
-3. Vertel je verhaal, of laat klanten het voor je vertellen
-4. Verbloem je kanaal, maak het netjes
-5. Richt je op je doelgroep
-6. Gebruik geen bangmakerij
-7. Geef je video een beetje persoonlijkheid
-8. Verwerk een Call To Action
-9. Verbind, van mens tot mens (interactie)
+<img src="https://trello.com/c/vT6PwoSE/12-ruwe-scheten" alt="mijn afbeelding" title="Adobe XD Ontwerp" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
 
 # Leerdoelen videoprototype/productvideo
 
