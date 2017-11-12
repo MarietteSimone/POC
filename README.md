@@ -1,4 +1,5 @@
 <img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/b6cc39e542c1980d300f87f66548ee84/Adobe-XD.png" alt="mijn afbeelding" title="Adobe XD" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+
 # Proof of Concept (POC) en Reflectie
 
 Maya App
@@ -62,8 +63,8 @@ Wat heb ik geleerd?
 
 - Ik heb geleerd dat het een fijn programma is, waarin je snel en makkelijk prototypes in kunt realiseren.
 - Hoe je een interactief prototype maakt binnen Adobe XD.
-- D.m.v. "drag and drop" kun je interacties tussen je schermen creeëren.
-- Dat de opties om de schermflow te creeëren minimaal zijn.
+- D.m.v. "drag and drop" kun je interacties tussen je schermen creëren.
+- Dat de opties om de schermflow te creëren minimaal zijn.
 - Hoewel het programma vrij nieuw is, zijn er al veel tutorials en templates beschikbaar online.
 - Hoe je een schermopname kunt maken, en je bestand kunt opslaan.
 - Samenwerken is makkelijk en online mogelijk.
@@ -74,8 +75,10 @@ Leerdoelen behaald?
 
 1 Goed en vloeiend werkend prototype maken in Adobe XD, voor zover dat haalbaar is binnen de beschikbare tijd.
 Zeker behaald binnen de beschikbare tijd, het prototype werkt goed waardoor de achterliggende gedachten goed overkomt.
+
 2 Basis van Adobe XD goed begrijpen en het leerproces gestructureerd aanpakken.
 Ik beheers in principe alle functies binnen Adobe XD, het was af en toe wel een uitdaging als bepaalde dingen niet lukte of niet mogelijk bleken te zijn. Ik heb toch wel doorgezet met dit programma omdat ik echt vind dat het een mooie toevoeging is aan mijn skills, en een programma is wat ik in de toekomst zeker nog verwacht te gaan gebruiken.
+
 3 De microinteracties op een goede manier weergeven in Adobe XD.
 Ook dit punt is aardig gelukt, al moet ik er bij zeggen dat ik pas later ontdekte dat het swipen van bepaalde elementen binnen de MAYA app niet mogelijk is. Een goede uitleg of aanwijzigingen bij het opleveren van het prototype is dus wel gewenst.
 
@@ -87,7 +90,7 @@ Ik heb de dingen die nog niet gelukt zijn:
 
 # Conclusie
 
-Het programma is echt puur gericht op het ontwerpen van wireframes, layouts en (interactieve) designs van websites en apps. Doordat het werken met het programma snel gaat en je makkelijk online kunt overleggen met teamgenoten, raad ik zeker aan om het te gebruiken. Uit de video's in de artikelen kreeg ik als snel door hoe het programma precies werkte, waardoor ik snel aan de gang kon gaan. Aangezien vrijwel iedereen in de creatieve sector werkt met het Adobe pakket is het dus ook toegankelijk voor iedereen. Is dit niet het geval, kun je alsnog het ontwerp delen als PNG'S, PDF en schermvideo. Verder helpt het enorm bij de ontwerpfase, en zorgt er voor dat je een goed en duidelijk voorstel kunt leveren. Voordat developpers vervolgens alles verder gaan uitwerken.
+Het programma is echt puur gericht op het ontwerpen van wireframes, layouts en (interactieve) designs van websites en apps. Doordat het werken met het programma snel gaat en je makkelijk online kunt overleggen met teamgenoten, raad ik zeker aan om het te gebruiken. Uit de video's in de artikelen kreeg ik als snel door hoe het programma precies werkte, waardoor ik snel aan de gang kon gaan. Aangezien vrijwel iedereen in de creatieve sector werkt met het Adobe pakket is het dus ook toegankelijk voor iedereen. Is dit niet het geval, kun je alsnog het ontwerp delen als PNG'S, PDF en schermvideo. Verder helpt het enorm bij de ontwerpfase, en zorgt er voor dat je een goed en duidelijk voorstel kunt leveren. Voordat developers vervolgens alles verder gaan uitwerken.
 Nadeel: er is echter wel een groot nadeel aan Adobe XD, in mijn ontwerp was een van de belangrijkste microinteracties het swipen om te wijzigen/verwijderen. Dit kun je helaas niet exact realiseren binnen Adobe XD.
 
 # Links
