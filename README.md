@@ -78,7 +78,7 @@ Ik heb de dingen die nog niet gelukt zijn:
 - Swipen om te wijzigen/verwijderen
 - Switchen tussen de filter opties
 
-<embed src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" Pluginspage="https://support.apple.com/quicktime" width="320" height="250" CONTROLLER="true" LOOP="false" AUTOPLAY="true" name="IBM Video"></embed>
+<embed src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" width="320" height="250" CONTROLLER="true" LOOP="false" AUTOPLAY="true" name="IBM Video"></embed>
 
 # Conclusie
 
