@@ -78,7 +78,8 @@ Ik heb de dingen die nog niet gelukt zijn:
 - Swipen om te wijzigen/verwijderen
 - Switchen tussen de filter opties
 
-<video src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" alt="mijn afbeelding" title="Adobe XD Ontwerp" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+
+<embed type="video/quicktime" src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" width="640" height="480">
 
 # Conclusie
 
