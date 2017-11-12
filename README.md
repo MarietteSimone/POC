@@ -29,8 +29,8 @@ Na onderzoek gedaan te hebben naar verschillende prototyping tools, kwam ik uite
 Het plan is om de stappen om een activiteit aan te maken, te ontwerpen binnen deze tool (incl. microinteracties).
 Ik heb allereerst pattern onderzoek gedaan, waaruit nu de eerste schetsen zijn ontstaan. Die ik weer verder ga uitwerken en testen om vervolgens het prototype te kunnen maken.
 
-<img src="https://trello.com/c/vT6PwoSE/12-ruwe-scheten" alt="mijn afbeelding" title="Concept schets" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
-<img src="https://trello.com/c/vT6PwoSE/12-ruwe-scheten" alt="mijn afbeelding" title="Adobe XD" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+<img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/94582e2bfa69b16c33913b5cc86486dc/Schermafbeelding_2017-11-12_om_14.07.32.png" alt="mijn afbeelding" title="Concept schets" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+<img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/b6cc39e542c1980d300f87f66548ee84/Adobe-XD.png" alt="mijn afbeelding" title="Adobe XD" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
 
 
 # Aanpak videoprototype/productvideo
@@ -43,7 +43,7 @@ Ik heb hiervoor eerst een kort script geschreven:
 - Functies: oefeningen, toevoegen, favorieten, meldingen.
 - Afsluiting: Be your happy self again! + call to action
 
-<img src="https://trello.com/c/vT6PwoSE/12-ruwe-scheten" alt="mijn afbeelding" title="Adobe XD Ontwerp" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
+<img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/5082f97dd85a20a4ed367fa35825c57d/Schermafbeelding_2017-11-07_om_16.12.40.png" alt="mijn afbeelding" title="Adobe XD Ontwerp" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
 
 # Leerdoelen videoprototype/productvideo
 
