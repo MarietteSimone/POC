@@ -79,7 +79,9 @@ Ik heb de dingen die nog niet gelukt zijn:
 - Switchen tussen de filter opties
 
 
-<embed type="video/quicktime" src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" width="640" height="480">
+<iframe title="YouTube video player" class="youtube-player" type="text/html" 
+width="640" height="390" src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4"
+frameborder="0" allowFullScreen></iframe>
 
 # Conclusie
 
