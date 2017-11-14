@@ -1,3 +1,6 @@
+<p>Video link geheel <a href="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f7bc7435bb4e745e954201524f6e3dcc/Maken2.mp4" target="_blank">prototype lijsten</a>.
+</p>
+
 <img src="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/59d4fd5ad2d4baec7f4baf04/b6cc39e542c1980d300f87f66548ee84/Adobe-XD.png" alt="mijn afbeelding" title="Adobe XD" style="width: 125px; height: auto; max-width: 25%; float: right; margin: 4px 0 4px 4px; border: 2px solid red;">
 
 # Proof of Concept (POC) en Reflectie
@@ -97,5 +100,7 @@ Nadeel: er is echter wel een groot nadeel aan Adobe XD, in mijn ontwerp was een 
 
 - https://drive.google.com/drive/folders/0B69eGFifr6TEX01pM1BMUXhQcmc
 - https://trello.com/b/r9oXlNRi/ehealth-20
-- <p>Video link <a href="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" target="_blank">prototype lijsten</a>.
+- <p>Video link details <a href="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f57cd16111319e25bbe1260b2764b799/PrototypeFilm.Maken.mp4" target="_blank">prototype lijsten</a>.
+</p>
+- <p>Video link geheel <a href="https://trello-attachments.s3.amazonaws.com/59b92145023bb48aed9a3ebb/5a085bcd80120b7df216bde0/f7bc7435bb4e745e954201524f6e3dcc/Maken2.mp4" target="_blank">prototype lijsten</a>.
 </p>
