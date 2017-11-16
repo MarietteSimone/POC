@@ -88,6 +88,7 @@ Ook dit punt is aardig gelukt, al moet ik er bij zeggen dat ik pas later ontdekt
 Ik heb de dingen die nog niet gelukt zijn:
 - Swipen om te wijzigen/verwijderen
 - Switchen tussen de filter opties
+- Invoervelden interactief maken
 - Gehele app uitwerken in dit programma
 
 
